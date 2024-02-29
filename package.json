@@ -1,17 +1,17 @@
 {
-    "name": "@localia/ngx-cookie-consent",
-    "version": "1.1.0",
+    "name": "@Allisone/ngx-cookie-consent",
+    "version": "1.1.5",
     "description": "Angular module to display a cookie consent banner without other dependencies.",
-    "author": "Giacomo Barbalinardo <me@giacomo.dev>",
+    "author": "Sebastian Wojtowicz <apps.by.seb@gmail.com> orginal Giacomo Barbalinardo <me@giacomo.dev>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/giacomo/ngx-cookie-consent.git"
+        "url": "https://github.com/Allisone/ngx-cookie-consent.git"
     },
     "bugs": {
-        "url": "https://github.com/giacomo/ngx-cookie-consent/issues"
+        "url": "https://github.com/Allisone/ngx-cookie-consent/issues"
     },
-    "homepage": "https://github.com/giacomo/ngx-cookie-consent",
+    "homepage": "https://github.com/Allisone/ngx-cookie-consent",
     "keywords": [
         "law",
         "angular",
